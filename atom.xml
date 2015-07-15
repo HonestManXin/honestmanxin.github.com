@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  
+  <title><![CDATA[HonestManXin]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://0xfffe.com//"/>
+  <updated>2015-07-15T15:44:57.000Z</updated>
+  <id>http://0xfffe.com//</id>
+  
+  <author>
+    <name><![CDATA[HonestManXin]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[第一篇博客--Hello World]]></title>
+    <link href="http://0xfffe.com/2015/07/15/first-blog/"/>
+    <id>http://0xfffe.com/2015/07/15/first-blog/</id>
+    <published>2015-07-15T15:34:17.000Z</published>
+    <updated>2015-07-15T15:44:57.000Z</updated>
+    <content type="html"><![CDATA[<p>这篇文章预示着以后我将在这记录下我的成长过程发生的所有的事情。<br>所有内容中偏技术较多点。<br><img src="pictures/first.jpg" alt=""></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>这篇文章预示着以后我将在这记录下我的成长过程发生的所有的事情。<br>所有内容中偏技术较多点。<br><img src="pictures/first.jpg" alt=""></p>
+]]>
+    </summary>
+    
+      <category term="杂" scheme="http://0xfffe.com/categories/%E6%9D%82/"/>
+    
+  </entry>
+  
+</feed>
